@@ -6,4 +6,4 @@ Ponder is a platform for sharing your thoughts, or promoting some personal stuff
 
 Given a dataset of past comments and their scores (training dataset), you have to build a model that can predict scores of comments present in the test dataset.)
 
-#### Public Leaderboard Rank: 9
+#### Private Leaderboard Rank: 9
